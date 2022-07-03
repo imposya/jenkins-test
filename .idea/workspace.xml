@@ -9,7 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21aefe24-dad1-49ee-90e9-b3ad2814b43a" name="Changes" comment="2 controllers with @GetMapping">
+    <list default="true" id="21aefe24-dad1-49ee-90e9-b3ad2814b43a" name="Changes" comment="@RequestParam&#10;HttpServletRequest">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/calculator.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/imposya/springmvc/controllers/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/imposya/springmvc/controllers/FirstController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
@@ -158,7 +159,7 @@
       <updated>1656764228346</updated>
       <workItem from="1656764229668" duration="579000" />
       <workItem from="1656764826030" duration="6543000" />
-      <workItem from="1656861787098" duration="591000" />
+      <workItem from="1656861787098" duration="1863000" />
     </task>
     <task id="LOCAL-00001" summary="MVC start - first controller">
       <created>1656766223401</created>
@@ -181,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656781291194</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="@RequestParam&#10;HttpServletRequest">
+      <created>1656862418650</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656862418650</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +210,7 @@
     <MESSAGE value="MVC start - first controller" />
     <MESSAGE value="Deleting XML files" />
     <MESSAGE value="2 controllers with @GetMapping" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 controllers with @GetMapping" />
+    <MESSAGE value="@RequestParam&#10;HttpServletRequest" />
+    <option name="LAST_COMMIT_MESSAGE" value="@RequestParam&#10;HttpServletRequest" />
   </component>
 </project>
