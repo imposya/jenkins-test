@@ -13,7 +13,6 @@ public class MySpringMVCDispatcherServletInitializer extends AbstractAnnotationC
         return new Class[] {SpringConfig.class};
     }
 
-    //все запросы посылаем на dispatcher servlet
     @Override
     protected String[] getServletMappings() {
         return new String[] {"/"};
